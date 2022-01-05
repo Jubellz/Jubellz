@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jubellz
+- 👋 Hi, I’m @Jubilee
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning SQL and Data Visualization tools
 - 💞️ I’m looking to collaborate on opportunities 
